@@ -1,0 +1,17 @@
+*{background-color: rgb(13,18,58);max-height:100vh;}
+.upper{background-color:rgb(12, 19, 78);color: yellow;}
+.link{width:225px;background-color: rgb(13,18,58);position: relative ;bottom: 39px;left: 500px;padding:15px;}
+ #abc{background-color: rgb(9, 14, 51); color:yellow;position: relative ;bottom: 75px;left: 1200px;width: 10px;
+border: 200px;border-radius: 3px;padding: 13px;} 
+.card1{width:280px;background-color: rgb(28,43,92);height: 200px;border: 1px solid rgba(252,216,122,0.4);border-radius: 12px;text-align: center;
+        padding: 20px;position: relative;bottom:61px ;left: 120px;}
+#dis{position: relative;bottom: 45px;text-align: center;color: yellow;background-color:rgb(9, 14, 51) ;}
+#disco{position: relative;bottom: 18px;}
+.discover{position: relative;bottom: 12.5px;}
+.card2{width:280px;background-color: rgb(28,43,92);height: 200px;border: 1px solid rgba(252,216,122,0.4);border-radius: 12px;text-align: center;
+        padding: 20px;position: relative;bottom:302px ;left: 450px;}
+.card3{width:280px;background-color: rgb(28,43,92);height: 200px;border: 1px solid rgba(252,216,122,0.4);border-radius: 12px;text-align: center;
+        padding: 20px;position: relative;bottom: 554px;left: 780px;}
+#classcolor{color: rgb(238, 238, 12);}
+#enter{height: 30px;background-color: gold;color:rgb(13,18,58) ;position: relative;left:540px;bottom:10px ;}
+.form{position: relative;bottom: 480px;font-size: large;background-color: brown;}
